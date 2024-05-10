@@ -1,0 +1,243 @@
+.infobox {
+    border: 1px solid #a2a9b1;
+    background: #f8f9fa;
+    margin-bottom: .5em;
+    margin-left: 1em;
+    padding: .4em;
+    float: right;
+    clear: right;
+    font-size: 90%;
+    width: 23em;
+    vertical-align: middle;
+    text-align: left;
+    line-height: 1.5em;
+    border-collapse: separate;
+    border-spacing: 2px;
+}
+
+div {
+    display: block;
+}
+html, body {
+    font-family: sans-serif;
+}
+html {
+    font-size: 100%;
+}
+
+html, body {
+    height: 100%;
+}
+
+html{
+    -webkit-locale: "ru";
+    direction: ltr;
+    unicode-bidi: isolate;
+}
+
+.mw-body, .parsoid-body {
+    background-color: #fff;
+    color: #202122;
+    direction: ltr;
+    padding: 1em;
+}
+
+@media (-webkit-min-device-pixel-ratio: 2), (min-resolution: 2dppx), (min-resolution: 192dpi) {
+    .mw-wiki-logo {
+        background-image: url(/static/images/project-logos/ruwiki-2x.png);
+        background-size: 60px;
+    }
+}
+
+#mw-head {
+    position: absolute;
+    top: 0;
+    right: 0;
+    width: 100%;
+}
+
+div {
+    display: block;
+    unicode-bidi: isolate;
+}
+
+
+div {
+    display: block;
+    unicode-bidi: isolate;
+}
+
+@media (-webkit-min-device-pixel-ratio: 1.5), (min-resolution: 1.5dppx) {
+    #p-logo a {
+        background-size: 50px auto;
+    }
+}
+
+#p-logo a {
+    background-position: center center;
+    background-repeat: no-repeat;
+    display: block;
+    width: 5em;
+    height: 50px;
+    margin-bottom: 1em;
+    text-decoration: none;
+}
+
+
+a {
+    text-decoration: none;
+    color: #0645ad;
+    background: none;
+}
+
+body {
+    font-family: sans-serif;
+}
+
+header {
+  background-color: #f0f0f0;
+  border: 1px solid #0b5387;
+  padding: 10px;
+  height: 15%;
+}
+
+h1 {
+  text-align: center;
+}
+  
+form {
+  display: flex;
+  margin: 20px 0;
+}
+  
+input[type="text"] {
+  flex: 1;
+  padding: 5px;
+  border: 1px solid #ccc;
+}
+  
+button[type="submit"] {
+  padding: 5px 10px;
+  background-color: #4CAF50;
+  color: white;
+  border: none;
+  cursor: pointer;
+}
+ 
+aside.mw-panel {
+   float: left;
+   width: 150px;
+   height: auto;
+   padding: 20px;
+   background-color: #f0f0f0;
+   border: 1px solid #0b5387;
+}
+
+aside.contentSite {
+    width: 250px;
+    background-color: #f9f9f9;
+    border: 1px solid #ccc;
+    padding: 20px;
+    height: 90%;
+}
+
+aside {
+    margin-right: 20px;
+    box-shadow: 0 10px 20px rgba(0, 0, 0, 0.2);
+}
+
+
+.form_search {
+    display: flex;
+    justify-content: flex-end;
+}
+
+aside.above{
+    width: 350px;
+    background-color:  #CFE3FF;
+}
+
+.mw-file-element {
+    border: 1px solid #c8ccd1;
+    background: #f8f9fa;
+    display: block;
+    margin-left: auto;
+    margin-right: auto
+}
+
+.mw-file{
+    float: right;
+}
+
+.mw-highlight pre {
+    -moz-tab-size: 4;
+    tab-size: 4;
+    position: relative;
+}
+
+pre, textarea {
+    tab-size: 4;
+}
+
+pre {
+    overflow-x: auto;
+    overflow-y: hidden;
+}
+
+pre, .mw-code {
+    line-height: 1.3;
+}
+
+pre, .mw-code {
+    padding: 1em;
+    white-space: pre-wrap;
+    overflow-x: hidden;
+    word-wrap: break-word;
+    
+}
+
+pre, code, .mw-code {
+    background-color: #f8f9fa;
+    color: #000;
+    border: 1px solid #eaecf0;
+}
+
+pre, code, tt, kbd, samp, .mw-code {
+    font-family: monospace, monospace;
+}
+
+pre {
+    display: block;
+    font-family: monospace;
+    unicode-bidi: isolate;
+    white-space: pre;
+    margin: 1em 0px;
+}
+
+code.mw-highlight, div.mw-highlight {
+    background-color: #f8f8f8;
+    color: #333;
+}
+
+.vector-body {
+    font-size: 0.875em;
+    font-size: calc(1em * 0.875);
+    line-height: 1.6;
+}
+
+.mw-body, .parsoid-body {
+    background-color: #fff;
+    color: #202122;
+    direction: ltr;
+    padding: 1em;
+}
+
+.brown{
+    color: #9C6500;
+}
+.green{
+    color: #008000;
+}
+.lgren{
+    color: #687822;
+}
