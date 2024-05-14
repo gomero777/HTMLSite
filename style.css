@@ -69,7 +69,7 @@ div {
 
 @media (-webkit-min-device-pixel-ratio: 1.5), (min-resolution: 1.5dppx) {
     #p-logo a {
-        background-size: 50px auto;
+        background-size: 150px auto;
     }
 }
 
